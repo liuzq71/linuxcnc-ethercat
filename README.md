@@ -1,6 +1,6 @@
 # linuxcnc-ethercat
 LinuxCNC EtherCAT HAL driver
-----------------------------------
+==================================
 
 linuxcnc-ethercat驱动编译:
 1,先编译通过:https://github.com/synapticon/Etherlab_EtherCAT_Master和https://github.com/LinuxCNC/linuxcnc
